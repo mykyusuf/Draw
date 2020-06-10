@@ -1,0 +1,483 @@
+<svg version="1.1" baseProfile="full" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="red" /> 
+<polyline points="0,0 20,0 10,17.3205" fill="orange"/> 
+
+<polyline points="0,17.3205 20,17.3205 10,34.641" fill="orange"/> 
+
+<polyline points="0,34.641 20,34.641 10,51.9615" fill="orange"/> 
+
+<polyline points="0,51.9615 20,51.9615 10,69.282" fill="orange"/> 
+
+<polyline points="0,69.282 20,69.282 10,86.6025" fill="orange"/> 
+
+<polyline points="0,86.6025 20,86.6025 10,103.923" fill="orange"/> 
+
+<polyline points="0,103.923 20,103.923 10,121.244" fill="orange"/> 
+
+<polyline points="0,121.244 20,121.244 10,138.564" fill="orange"/> 
+
+<polyline points="0,138.564 20,138.564 10,155.885" fill="orange"/> 
+
+<polyline points="0,155.885 20,155.885 10,173.205" fill="orange"/> 
+
+<polyline points="0,173.205 20,173.205 10,190.526" fill="orange"/> 
+
+<polyline points="0,190.526 20,190.526 10,207.846" fill="orange"/> 
+
+<polyline points="20,0 40,0 30,17.3205" fill="orange"/> 
+
+<polyline points="20,17.3205 40,17.3205 30,34.641" fill="orange"/> 
+
+<polyline points="20,34.641 40,34.641 30,51.9615" fill="orange"/> 
+
+<polyline points="20,51.9615 40,51.9615 30,69.282" fill="orange"/> 
+
+<polyline points="20,69.282 40,69.282 30,86.6025" fill="orange"/> 
+
+<polyline points="20,86.6025 40,86.6025 30,103.923" fill="orange"/> 
+
+<polyline points="20,103.923 40,103.923 30,121.244" fill="orange"/> 
+
+<polyline points="20,121.244 40,121.244 30,138.564" fill="orange"/> 
+
+<polyline points="20,138.564 40,138.564 30,155.885" fill="orange"/> 
+
+<polyline points="20,155.885 40,155.885 30,173.205" fill="orange"/> 
+
+<polyline points="20,173.205 40,173.205 30,190.526" fill="orange"/> 
+
+<polyline points="20,190.526 40,190.526 30,207.846" fill="orange"/> 
+
+<polyline points="40,0 60,0 50,17.3205" fill="orange"/> 
+
+<polyline points="40,17.3205 60,17.3205 50,34.641" fill="orange"/> 
+
+<polyline points="40,34.641 60,34.641 50,51.9615" fill="orange"/> 
+
+<polyline points="40,51.9615 60,51.9615 50,69.282" fill="orange"/> 
+
+<polyline points="40,69.282 60,69.282 50,86.6025" fill="orange"/> 
+
+<polyline points="40,86.6025 60,86.6025 50,103.923" fill="orange"/> 
+
+<polyline points="40,103.923 60,103.923 50,121.244" fill="orange"/> 
+
+<polyline points="40,121.244 60,121.244 50,138.564" fill="orange"/> 
+
+<polyline points="40,138.564 60,138.564 50,155.885" fill="orange"/> 
+
+<polyline points="40,155.885 60,155.885 50,173.205" fill="orange"/> 
+
+<polyline points="40,173.205 60,173.205 50,190.526" fill="orange"/> 
+
+<polyline points="40,190.526 60,190.526 50,207.846" fill="orange"/> 
+
+<polyline points="60,0 80,0 70,17.3205" fill="orange"/> 
+
+<polyline points="60,17.3205 80,17.3205 70,34.641" fill="orange"/> 
+
+<polyline points="60,34.641 80,34.641 70,51.9615" fill="orange"/> 
+
+<polyline points="60,51.9615 80,51.9615 70,69.282" fill="orange"/> 
+
+<polyline points="60,69.282 80,69.282 70,86.6025" fill="orange"/> 
+
+<polyline points="60,86.6025 80,86.6025 70,103.923" fill="orange"/> 
+
+<polyline points="60,103.923 80,103.923 70,121.244" fill="orange"/> 
+
+<polyline points="60,121.244 80,121.244 70,138.564" fill="orange"/> 
+
+<polyline points="60,138.564 80,138.564 70,155.885" fill="orange"/> 
+
+<polyline points="60,155.885 80,155.885 70,173.205" fill="orange"/> 
+
+<polyline points="60,173.205 80,173.205 70,190.526" fill="orange"/> 
+
+<polyline points="60,190.526 80,190.526 70,207.846" fill="orange"/> 
+
+<polyline points="80,0 100,0 90,17.3205" fill="orange"/> 
+
+<polyline points="80,17.3205 100,17.3205 90,34.641" fill="orange"/> 
+
+<polyline points="80,34.641 100,34.641 90,51.9615" fill="orange"/> 
+
+<polyline points="80,51.9615 100,51.9615 90,69.282" fill="orange"/> 
+
+<polyline points="80,69.282 100,69.282 90,86.6025" fill="orange"/> 
+
+<polyline points="80,86.6025 100,86.6025 90,103.923" fill="orange"/> 
+
+<polyline points="80,103.923 100,103.923 90,121.244" fill="orange"/> 
+
+<polyline points="80,121.244 100,121.244 90,138.564" fill="orange"/> 
+
+<polyline points="80,138.564 100,138.564 90,155.885" fill="orange"/> 
+
+<polyline points="80,155.885 100,155.885 90,173.205" fill="orange"/> 
+
+<polyline points="80,173.205 100,173.205 90,190.526" fill="orange"/> 
+
+<polyline points="80,190.526 100,190.526 90,207.846" fill="orange"/> 
+
+<polyline points="100,0 120,0 110,17.3205" fill="orange"/> 
+
+<polyline points="100,17.3205 120,17.3205 110,34.641" fill="orange"/> 
+
+<polyline points="100,34.641 120,34.641 110,51.9615" fill="orange"/> 
+
+<polyline points="100,51.9615 120,51.9615 110,69.282" fill="orange"/> 
+
+<polyline points="100,69.282 120,69.282 110,86.6025" fill="orange"/> 
+
+<polyline points="100,86.6025 120,86.6025 110,103.923" fill="orange"/> 
+
+<polyline points="100,103.923 120,103.923 110,121.244" fill="orange"/> 
+
+<polyline points="100,121.244 120,121.244 110,138.564" fill="orange"/> 
+
+<polyline points="100,138.564 120,138.564 110,155.885" fill="orange"/> 
+
+<polyline points="100,155.885 120,155.885 110,173.205" fill="orange"/> 
+
+<polyline points="100,173.205 120,173.205 110,190.526" fill="orange"/> 
+
+<polyline points="100,190.526 120,190.526 110,207.846" fill="orange"/> 
+
+<polyline points="120,0 140,0 130,17.3205" fill="orange"/> 
+
+<polyline points="120,17.3205 140,17.3205 130,34.641" fill="orange"/> 
+
+<polyline points="120,34.641 140,34.641 130,51.9615" fill="orange"/> 
+
+<polyline points="120,51.9615 140,51.9615 130,69.282" fill="orange"/> 
+
+<polyline points="120,69.282 140,69.282 130,86.6025" fill="orange"/> 
+
+<polyline points="120,86.6025 140,86.6025 130,103.923" fill="orange"/> 
+
+<polyline points="120,103.923 140,103.923 130,121.244" fill="orange"/> 
+
+<polyline points="120,121.244 140,121.244 130,138.564" fill="orange"/> 
+
+<polyline points="120,138.564 140,138.564 130,155.885" fill="orange"/> 
+
+<polyline points="120,155.885 140,155.885 130,173.205" fill="orange"/> 
+
+<polyline points="120,173.205 140,173.205 130,190.526" fill="orange"/> 
+
+<polyline points="120,190.526 140,190.526 130,207.846" fill="orange"/> 
+
+<polyline points="140,0 160,0 150,17.3205" fill="orange"/> 
+
+<polyline points="140,17.3205 160,17.3205 150,34.641" fill="orange"/> 
+
+<polyline points="140,34.641 160,34.641 150,51.9615" fill="orange"/> 
+
+<polyline points="140,51.9615 160,51.9615 150,69.282" fill="orange"/> 
+
+<polyline points="140,69.282 160,69.282 150,86.6025" fill="orange"/> 
+
+<polyline points="140,86.6025 160,86.6025 150,103.923" fill="orange"/> 
+
+<polyline points="140,103.923 160,103.923 150,121.244" fill="orange"/> 
+
+<polyline points="140,121.244 160,121.244 150,138.564" fill="orange"/> 
+
+<polyline points="140,138.564 160,138.564 150,155.885" fill="orange"/> 
+
+<polyline points="140,155.885 160,155.885 150,173.205" fill="orange"/> 
+
+<polyline points="140,173.205 160,173.205 150,190.526" fill="orange"/> 
+
+<polyline points="140,190.526 160,190.526 150,207.846" fill="orange"/> 
+
+<polyline points="160,0 180,0 170,17.3205" fill="orange"/> 
+
+<polyline points="160,17.3205 180,17.3205 170,34.641" fill="orange"/> 
+
+<polyline points="160,34.641 180,34.641 170,51.9615" fill="orange"/> 
+
+<polyline points="160,51.9615 180,51.9615 170,69.282" fill="orange"/> 
+
+<polyline points="160,69.282 180,69.282 170,86.6025" fill="orange"/> 
+
+<polyline points="160,86.6025 180,86.6025 170,103.923" fill="orange"/> 
+
+<polyline points="160,103.923 180,103.923 170,121.244" fill="orange"/> 
+
+<polyline points="160,121.244 180,121.244 170,138.564" fill="orange"/> 
+
+<polyline points="160,138.564 180,138.564 170,155.885" fill="orange"/> 
+
+<polyline points="160,155.885 180,155.885 170,173.205" fill="orange"/> 
+
+<polyline points="160,173.205 180,173.205 170,190.526" fill="orange"/> 
+
+<polyline points="160,190.526 180,190.526 170,207.846" fill="orange"/> 
+
+<polyline points="180,0 200,0 190,17.3205" fill="orange"/> 
+
+<polyline points="180,17.3205 200,17.3205 190,34.641" fill="orange"/> 
+
+<polyline points="180,34.641 200,34.641 190,51.9615" fill="orange"/> 
+
+<polyline points="180,51.9615 200,51.9615 190,69.282" fill="orange"/> 
+
+<polyline points="180,69.282 200,69.282 190,86.6025" fill="orange"/> 
+
+<polyline points="180,86.6025 200,86.6025 190,103.923" fill="orange"/> 
+
+<polyline points="180,103.923 200,103.923 190,121.244" fill="orange"/> 
+
+<polyline points="180,121.244 200,121.244 190,138.564" fill="orange"/> 
+
+<polyline points="180,138.564 200,138.564 190,155.885" fill="orange"/> 
+
+<polyline points="180,155.885 200,155.885 190,173.205" fill="orange"/> 
+
+<polyline points="180,173.205 200,173.205 190,190.526" fill="orange"/> 
+
+<polyline points="180,190.526 200,190.526 190,207.846" fill="orange"/> 
+
+<polyline points="10,17.3205 30,17.3205 20,0" fill="orange"/> 
+
+<polyline points="10,34.641 30,34.641 20,17.3205" fill="orange"/> 
+
+<polyline points="10,51.9615 30,51.9615 20,34.641" fill="orange"/> 
+
+<polyline points="10,69.282 30,69.282 20,51.9615" fill="orange"/> 
+
+<polyline points="10,86.6025 30,86.6025 20,69.282" fill="orange"/> 
+
+<polyline points="10,103.923 30,103.923 20,86.6025" fill="orange"/> 
+
+<polyline points="10,121.244 30,121.244 20,103.923" fill="orange"/> 
+
+<polyline points="10,138.564 30,138.564 20,121.244" fill="orange"/> 
+
+<polyline points="10,155.885 30,155.885 20,138.564" fill="orange"/> 
+
+<polyline points="10,173.205 30,173.205 20,155.885" fill="orange"/> 
+
+<polyline points="10,190.526 30,190.526 20,173.205" fill="orange"/> 
+
+<polyline points="10,207.846 30,207.846 20,190.526" fill="orange"/> 
+
+<polyline points="30,17.3205 50,17.3205 40,0" fill="orange"/> 
+
+<polyline points="30,34.641 50,34.641 40,17.3205" fill="orange"/> 
+
+<polyline points="30,51.9615 50,51.9615 40,34.641" fill="orange"/> 
+
+<polyline points="30,69.282 50,69.282 40,51.9615" fill="orange"/> 
+
+<polyline points="30,86.6025 50,86.6025 40,69.282" fill="orange"/> 
+
+<polyline points="30,103.923 50,103.923 40,86.6025" fill="orange"/> 
+
+<polyline points="30,121.244 50,121.244 40,103.923" fill="orange"/> 
+
+<polyline points="30,138.564 50,138.564 40,121.244" fill="orange"/> 
+
+<polyline points="30,155.885 50,155.885 40,138.564" fill="orange"/> 
+
+<polyline points="30,173.205 50,173.205 40,155.885" fill="orange"/> 
+
+<polyline points="30,190.526 50,190.526 40,173.205" fill="orange"/> 
+
+<polyline points="30,207.846 50,207.846 40,190.526" fill="orange"/> 
+
+<polyline points="50,17.3205 70,17.3205 60,0" fill="orange"/> 
+
+<polyline points="50,34.641 70,34.641 60,17.3205" fill="orange"/> 
+
+<polyline points="50,51.9615 70,51.9615 60,34.641" fill="orange"/> 
+
+<polyline points="50,69.282 70,69.282 60,51.9615" fill="orange"/> 
+
+<polyline points="50,86.6025 70,86.6025 60,69.282" fill="orange"/> 
+
+<polyline points="50,103.923 70,103.923 60,86.6025" fill="orange"/> 
+
+<polyline points="50,121.244 70,121.244 60,103.923" fill="orange"/> 
+
+<polyline points="50,138.564 70,138.564 60,121.244" fill="orange"/> 
+
+<polyline points="50,155.885 70,155.885 60,138.564" fill="orange"/> 
+
+<polyline points="50,173.205 70,173.205 60,155.885" fill="orange"/> 
+
+<polyline points="50,190.526 70,190.526 60,173.205" fill="orange"/> 
+
+<polyline points="50,207.846 70,207.846 60,190.526" fill="orange"/> 
+
+<polyline points="70,17.3205 90,17.3205 80,0" fill="orange"/> 
+
+<polyline points="70,34.641 90,34.641 80,17.3205" fill="orange"/> 
+
+<polyline points="70,51.9615 90,51.9615 80,34.641" fill="orange"/> 
+
+<polyline points="70,69.282 90,69.282 80,51.9615" fill="orange"/> 
+
+<polyline points="70,86.6025 90,86.6025 80,69.282" fill="orange"/> 
+
+<polyline points="70,103.923 90,103.923 80,86.6025" fill="orange"/> 
+
+<polyline points="70,121.244 90,121.244 80,103.923" fill="orange"/> 
+
+<polyline points="70,138.564 90,138.564 80,121.244" fill="orange"/> 
+
+<polyline points="70,155.885 90,155.885 80,138.564" fill="orange"/> 
+
+<polyline points="70,173.205 90,173.205 80,155.885" fill="orange"/> 
+
+<polyline points="70,190.526 90,190.526 80,173.205" fill="orange"/> 
+
+<polyline points="70,207.846 90,207.846 80,190.526" fill="orange"/> 
+
+<polyline points="90,17.3205 110,17.3205 100,0" fill="orange"/> 
+
+<polyline points="90,34.641 110,34.641 100,17.3205" fill="orange"/> 
+
+<polyline points="90,51.9615 110,51.9615 100,34.641" fill="orange"/> 
+
+<polyline points="90,69.282 110,69.282 100,51.9615" fill="orange"/> 
+
+<polyline points="90,86.6025 110,86.6025 100,69.282" fill="orange"/> 
+
+<polyline points="90,103.923 110,103.923 100,86.6025" fill="orange"/> 
+
+<polyline points="90,121.244 110,121.244 100,103.923" fill="orange"/> 
+
+<polyline points="90,138.564 110,138.564 100,121.244" fill="orange"/> 
+
+<polyline points="90,155.885 110,155.885 100,138.564" fill="orange"/> 
+
+<polyline points="90,173.205 110,173.205 100,155.885" fill="orange"/> 
+
+<polyline points="90,190.526 110,190.526 100,173.205" fill="orange"/> 
+
+<polyline points="90,207.846 110,207.846 100,190.526" fill="orange"/> 
+
+<polyline points="110,17.3205 130,17.3205 120,0" fill="orange"/> 
+
+<polyline points="110,34.641 130,34.641 120,17.3205" fill="orange"/> 
+
+<polyline points="110,51.9615 130,51.9615 120,34.641" fill="orange"/> 
+
+<polyline points="110,69.282 130,69.282 120,51.9615" fill="orange"/> 
+
+<polyline points="110,86.6025 130,86.6025 120,69.282" fill="orange"/> 
+
+<polyline points="110,103.923 130,103.923 120,86.6025" fill="orange"/> 
+
+<polyline points="110,121.244 130,121.244 120,103.923" fill="orange"/> 
+
+<polyline points="110,138.564 130,138.564 120,121.244" fill="orange"/> 
+
+<polyline points="110,155.885 130,155.885 120,138.564" fill="orange"/> 
+
+<polyline points="110,173.205 130,173.205 120,155.885" fill="orange"/> 
+
+<polyline points="110,190.526 130,190.526 120,173.205" fill="orange"/> 
+
+<polyline points="110,207.846 130,207.846 120,190.526" fill="orange"/> 
+
+<polyline points="130,17.3205 150,17.3205 140,0" fill="orange"/> 
+
+<polyline points="130,34.641 150,34.641 140,17.3205" fill="orange"/> 
+
+<polyline points="130,51.9615 150,51.9615 140,34.641" fill="orange"/> 
+
+<polyline points="130,69.282 150,69.282 140,51.9615" fill="orange"/> 
+
+<polyline points="130,86.6025 150,86.6025 140,69.282" fill="orange"/> 
+
+<polyline points="130,103.923 150,103.923 140,86.6025" fill="orange"/> 
+
+<polyline points="130,121.244 150,121.244 140,103.923" fill="orange"/> 
+
+<polyline points="130,138.564 150,138.564 140,121.244" fill="orange"/> 
+
+<polyline points="130,155.885 150,155.885 140,138.564" fill="orange"/> 
+
+<polyline points="130,173.205 150,173.205 140,155.885" fill="orange"/> 
+
+<polyline points="130,190.526 150,190.526 140,173.205" fill="orange"/> 
+
+<polyline points="130,207.846 150,207.846 140,190.526" fill="orange"/> 
+
+<polyline points="150,17.3205 170,17.3205 160,0" fill="orange"/> 
+
+<polyline points="150,34.641 170,34.641 160,17.3205" fill="orange"/> 
+
+<polyline points="150,51.9615 170,51.9615 160,34.641" fill="orange"/> 
+
+<polyline points="150,69.282 170,69.282 160,51.9615" fill="orange"/> 
+
+<polyline points="150,86.6025 170,86.6025 160,69.282" fill="orange"/> 
+
+<polyline points="150,103.923 170,103.923 160,86.6025" fill="orange"/> 
+
+<polyline points="150,121.244 170,121.244 160,103.923" fill="orange"/> 
+
+<polyline points="150,138.564 170,138.564 160,121.244" fill="orange"/> 
+
+<polyline points="150,155.885 170,155.885 160,138.564" fill="orange"/> 
+
+<polyline points="150,173.205 170,173.205 160,155.885" fill="orange"/> 
+
+<polyline points="150,190.526 170,190.526 160,173.205" fill="orange"/> 
+
+<polyline points="150,207.846 170,207.846 160,190.526" fill="orange"/> 
+
+<polyline points="170,17.3205 190,17.3205 180,0" fill="orange"/> 
+
+<polyline points="170,34.641 190,34.641 180,17.3205" fill="orange"/> 
+
+<polyline points="170,51.9615 190,51.9615 180,34.641" fill="orange"/> 
+
+<polyline points="170,69.282 190,69.282 180,51.9615" fill="orange"/> 
+
+<polyline points="170,86.6025 190,86.6025 180,69.282" fill="orange"/> 
+
+<polyline points="170,103.923 190,103.923 180,86.6025" fill="orange"/> 
+
+<polyline points="170,121.244 190,121.244 180,103.923" fill="orange"/> 
+
+<polyline points="170,138.564 190,138.564 180,121.244" fill="orange"/> 
+
+<polyline points="170,155.885 190,155.885 180,138.564" fill="orange"/> 
+
+<polyline points="170,173.205 190,173.205 180,155.885" fill="orange"/> 
+
+<polyline points="170,190.526 190,190.526 180,173.205" fill="orange"/> 
+
+<polyline points="170,207.846 190,207.846 180,190.526" fill="orange"/> 
+
+<polyline points="190,17.3205 210,17.3205 200,0" fill="orange"/> 
+
+<polyline points="190,34.641 210,34.641 200,17.3205" fill="orange"/> 
+
+<polyline points="190,51.9615 210,51.9615 200,34.641" fill="orange"/> 
+
+<polyline points="190,69.282 210,69.282 200,51.9615" fill="orange"/> 
+
+<polyline points="190,86.6025 210,86.6025 200,69.282" fill="orange"/> 
+
+<polyline points="190,103.923 210,103.923 200,86.6025" fill="orange"/> 
+
+<polyline points="190,121.244 210,121.244 200,103.923" fill="orange"/> 
+
+<polyline points="190,138.564 210,138.564 200,121.244" fill="orange"/> 
+
+<polyline points="190,155.885 210,155.885 200,138.564" fill="orange"/> 
+
+<polyline points="190,173.205 210,173.205 200,155.885" fill="orange"/> 
+
+<polyline points="190,190.526 210,190.526 200,173.205" fill="orange"/> 
+
+<polyline points="190,207.846 210,207.846 200,190.526" fill="orange"/> 
+
+</svg>
